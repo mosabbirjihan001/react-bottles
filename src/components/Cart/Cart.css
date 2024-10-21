@@ -1,0 +1,6 @@
+.cart-container img {
+   width: 100px;
+   margin-right: 10px;
+   border: 2px solid goldenrod;
+   border-radius: 20px;
+}
